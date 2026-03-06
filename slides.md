@@ -1,5 +1,5 @@
 # Les Permissions Avancées dans Grist
-Sécuriser et gérer finement l'accès à vos données
+Sécuriser et gérer finement l'accès à vos données 
 
 ---
 
